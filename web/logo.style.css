@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+@font-face {
+	font-family: Alien;
+	src: url('alien.ttf');
+}
+
+small.T,small.L {
+	font-family: Alien;
+	font-size: 60pt;
+	color: #81A2DB;
+}
+
+small.e,small.g,small.y,small.s {
+	font-family: Alien;
+	font-size: 40pt;
+	color: #6ADE72;
+}
+
+small.r,small.d,small.o,small.i {
+	font-family: Alien;
+	font-size: 40pt;
+	color: #B381E6;
+}
+
+small.n,small.m,small.dot {
+	font-family: Alien;
+	font-size: 40pt;
+	color: #7CA6A2;
+}
+
+small.c {
+	font-family: Alien;
+	font-size: 40pt;
+	color: #F2A2A2;
+}
