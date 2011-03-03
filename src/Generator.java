@@ -39,7 +39,6 @@ public class Generator {
 				System.out.println("it broke at loop: "+ i);
 			} catch (IOException e) {
 				e.printStackTrace();
-				System.out.println("it broke at loop: "+ i);
 			}
 		}
 	}
