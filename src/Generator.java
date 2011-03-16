@@ -21,7 +21,7 @@ public class Generator {
 		for (int i = 0; i < max; i++) {
 			try {
 				URL url = new URL(
-						"http://www.tamersaadeh.com/ColoredText/?text=" + text);
+						"http://www.tamersaadeh.com/ColoringText/?text=" + text);
 				URLConnection con = url.openConnection();
 				BufferedReader in = new BufferedReader(new InputStreamReader(
 						con.getInputStream()));
